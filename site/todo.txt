@@ -1,0 +1,4 @@
+todo:
+- add basic grunt file
+- get grunt to download bower deps and copy relevant ones
+    - here we want bootstrap/fonts into vendor/bootstrap/fonts and boostrap/less into vendor/bootstrap/less

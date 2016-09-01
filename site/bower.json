@@ -1,0 +1,19 @@
+{
+  "name": "testeroo",
+  "version": "0.0.0",
+  "authors": [
+    "kallin <kallin.nagelberg@gmail.com>"
+  ],
+  "description": "TESTEROO!",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+	"bootstrap": "*"
+  }
+}
